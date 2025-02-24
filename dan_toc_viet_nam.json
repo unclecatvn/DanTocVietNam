@@ -1,0 +1,282 @@
+[
+    {
+        "code": "01",
+        "name": "Kinh",
+        "alternative_names": "Việt"
+    },
+    {
+        "code": "02",
+        "name": "Tày",
+        "alternative_names": "Thổ, Ngạn, Phén, Thù Lao, Pa Dí, Tày Khao"
+    },
+    {
+        "code": "03",
+        "name": "Thái",
+        "alternative_names": "Tày Đăm, Tày Mười, Tày Thanh, Mán Thanh, Hàng Bông, Tày Mường, Pa Thay, Thổ Đà Bắc"
+    },
+    {
+        "code": "04",
+        "name": "Hoa",
+        "alternative_names": "Hán, Triều Châu, Phúc Kiến, Quảng Đông, Hải Nam, Hạ, Xạ Phạng"
+    },
+    {
+        "code": "05",
+        "name": "Khơ-me",
+        "alternative_names": "Cur, Cul, Cu, Thổ, Việt gốc Miên, Krôm"
+    },
+    {
+        "code": "06",
+        "name": "Mường",
+        "alternative_names": "Mol, Mual, Mọi, Mọi Bi, Ao Tá, Ậu Tá"
+    },
+    {
+        "code": "07",
+        "name": "Nùng",
+        "alternative_names": "Xuồng, Giang, Nùng An, Phàn Sinh, Nùng Cháo, Nùng Lòi, Quý Rim, Khèn Lài"
+    },
+    {
+        "code": "08",
+        "name": "HMông",
+        "alternative_names": "Mèo, Hoa, Mèo Xanh, Mèo Đỏ, Mèo Đen, Ná Mẻo, Mán Trắng"
+    },
+    {
+        "code": "09",
+        "name": "Dao",
+        "alternative_names": "Mán, Động, Trại, Xá, Dìu, Miên, Kiềm, Miền, Quần Trắng, Dao Đỏ, Quần Chẹt, Lô Giang, Dao Tiền, Thanh Y, Lan Tẻn, Đại Bản, Tiểu Bản, Cóc Ngáng, Cóc Mùn, Sơn Đầu"
+    },
+    {
+        "code": "10",
+        "name": "Gia-rai",
+        "alternative_names": "Giơ-rai, Tơ-buăn, Chơ-rai, Hơ-bau, Hđrung, Chor"
+    },
+    {
+        "code": "11",
+        "name": "Ngái",
+        "alternative_names": "Xín, Lê, Đản, Khách Gia"
+    },
+    {
+        "code": "12",
+        "name": "Ê-đê",
+        "alternative_names": "Ra-đê, Đê, Kpạ, A-đham, Krung, Ktul, Đliê Ruê, Blô, Epan, Mđhur, Bih"
+    },
+    {
+        "code": "13",
+        "name": "Ba na",
+        "alternative_names": "Giơ-lar. Tơ-lô, Giơ-lâng, Y-lăng, Rơ-ngao, Krem, Roh, ConKđe, A-la Công, Kpăng Công, Bơ-nâm"
+    },
+    {
+        "code": "14",
+        "name": "Xơ-Đăng",
+        "alternative_names": "Xơ-teng, Hđang, Tơ-đra, Mơ-nâm, Ha-lăng, Ca-dong, Kmrâng, ConLan, Bri-la, Tang"
+    },
+    {
+        "code": "15",
+        "name": "Sán Chay",
+        "alternative_names": "Cao Lan, Sán Chỉ, Mán Cao Lan, Hờn Bạn, Sơn Tử"
+    },
+    {
+        "code": "16",
+        "name": "Cơ-ho",
+        "alternative_names": "Xrê, Nốp, Tu-lốp, Cơ-don, Chil, Lat, Lach, Trinh"
+    },
+    {
+        "code": "17",
+        "name": "Chăm",
+        "alternative_names": "Chàm, Chiêm Thành, Hroi"
+    },
+    {
+        "code": "18",
+        "name": "Sán Dìu",
+        "alternative_names": "Sán Dẻo, Trại, Trại Đất, Mán, Quần Cộc"
+    },
+    {
+        "code": "19",
+        "name": "Hrê",
+        "alternative_names": "Chăm Rê, Chom, Krẹ Luỹ"
+    },
+    {
+        "code": "20",
+        "name": "Mnông",
+        "alternative_names": "Pnông, Nông, Pré, Bu-đâng, ĐiPri, Biat, Gar, Rơ-lam, Chil"
+    },
+    {
+        "code": "21",
+        "name": "Ra-glai",
+        "alternative_names": "Ra-clây, Rai, Noang, La-oang"
+    },
+    {
+        "code": "22",
+        "name": "Xtiêng",
+        "alternative_names": "Xa-điêng"
+    },
+    {
+        "code": "23",
+        "name": "Bru-Vân Kiều",
+        "alternative_names": "Bru, Vân Kiều, Măng Coong, Tri Khùa"
+    },
+    {
+        "code": "24",
+        "name": "Thổ",
+        "alternative_names": "Kẹo, Mọn, Cuối, Họ, Đan Lai, Ly Hà, Tày Pọng, Con Kha, Xá Lá Vàng"
+    },
+    {
+        "code": "25",
+        "name": "Giáy",
+        "alternative_names": "Nhắng, Dẩng, Pầu Thìn Nu Nà, Cùi Chu, Xa"
+    },
+    {
+        "code": "26",
+        "name": "Cơ-tu",
+        "alternative_names": "Ca-tu, Cao, Hạ, Phương, Ca-tang"
+    },
+    {
+        "code": "27",
+        "name": "Gié Triêng",
+        "alternative_names": "Đgiéh, Tareb, Giang Rẫy Pin, Triêng, Treng, Ta-riêng, Ve, Veh, La-ve, Ca-tang"
+    },
+    {
+        "code": "28",
+        "name": "Mạ",
+        "alternative_names": "Châu Mạ, Mạ Ngăn, Mạ Xóp, Mạ Tô, Mạ Krung"
+    },
+    {
+        "code": "29",
+        "name": "Khơ-mú",
+        "alternative_names": "Xá Cẩu, Mứn Xen, Pu Thênh, Tềnh, Tày Hay"
+    },
+    {
+        "code": "30",
+        "name": "Co",
+        "alternative_names": "Cor, Col, Cùa, Trầu"
+    },
+    {
+        "code": "31",
+        "name": "Tà-ôi",
+        "alternative_names": "Tôi-ôi, Pa-co, Pa-hi, Ba-hi"
+    },
+    {
+        "code": "32",
+        "name": "Chơ-ro",
+        "alternative_names": "Dơ-ro, Châu-ro"
+    },
+    {
+        "code": "33",
+        "name": "Kháng",
+        "alternative_names": "Xá Khao, Xá Súa, Xá Dón, Xá Dẩng, Xá Hốc, Xá Ái, Xá Bung, Quảng Lâm"
+    },
+    {
+        "code": "34",
+        "name": "Xinh-mun",
+        "alternative_names": "Puộc, Pụa"
+    },
+    {
+        "code": "35",
+        "name": "Hà Nhì",
+        "alternative_names": "U Ni, Xá U Ni"
+    },
+    {
+        "code": "36",
+        "name": "Chu ru",
+        "alternative_names": "Chơ-ru, Chu"
+    },
+    {
+        "code": "37",
+        "name": "Lào",
+        "alternative_names": "Là Bốc, Lào Nọi"
+    },
+    {
+        "code": "38",
+        "name": "La Chí",
+        "alternative_names": "Cù Tê, La Quả"
+    },
+    {
+        "code": "39",
+        "name": "La Ha",
+        "alternative_names": "Xá Khao, Khlá Phlạo"
+    },
+    {
+        "code": "40",
+        "name": "Phù Lá",
+        "alternative_names": "Bồ Khô Pạ, Mu Di Pạ Xá, Phó, Phổ, Va Xơ"
+    },
+    {
+        "code": "41",
+        "name": "La Hủ",
+        "alternative_names": "Lao, Pu Đang, Khù Xung, Cò Xung, Khả Quy"
+    },
+    {
+        "code": "42",
+        "name": "Lự",
+        "alternative_names": "Lừ, Nhuồn, Duôn"
+    },
+    {
+        "code": "43",
+        "name": "Lô Lô",
+        "alternative_names": "Mun Di"
+    },
+    {
+        "code": "44",
+        "name": "Chứt",
+        "alternative_names": "Sách, Máy, Rục, Mã-liêng, A-rem, Tu vang, Pa-leng, Xơ-Lang, Tơ-hung, Chà-củi, Tắc-củi, U-mo, Xá Lá Vàng"
+    },
+    {
+        "code": "45",
+        "name": "Mảng",
+        "alternative_names": "Mảng Ư, Xá Lá Vàng"
+    },
+    {
+        "code": "46",
+        "name": "Pà Thẻn",
+        "alternative_names": "Pà Hưng, Tống"
+    },
+    {
+        "code": "47",
+        "name": "Co Lao",
+        "alternative_names": ""
+    },
+    {
+        "code": "48",
+        "name": "Cống",
+        "alternative_names": "Xắm Khống, Mấng Nhé, Xá Xeng"
+    },
+    {
+        "code": "49",
+        "name": "Bố Y",
+        "alternative_names": "Chủng Chá, Trọng Gia, Tu Di, Tu Din"
+    },
+    {
+        "code": "50",
+        "name": "Si La",
+        "alternative_names": "Cù Dề Xừ, Khả pẻ"
+    },
+    {
+        "code": "51",
+        "name": "Pu Péo",
+        "alternative_names": "Ka Pèo, Pen Ti Lô Lô"
+    },
+    {
+        "code": "52",
+        "name": "Brâu",
+        "alternative_names": "Brao"
+    },
+    {
+        "code": "53",
+        "name": "Ơ Đu",
+        "alternative_names": "Tày Hạt"
+    },
+    {
+        "code": "54",
+        "name": "Rơ măm",
+        "alternative_names": ""
+    },
+    {
+        "code": "55",
+        "name": "Người nước ngoài",
+        "alternative_names": ""
+    },
+    {
+        "code": "56",
+        "name": "Không rõ",
+        "alternative_names": ""
+    }
+]
